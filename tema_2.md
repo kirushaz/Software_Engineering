@@ -28,7 +28,7 @@ a, b =1,2
 print(a==b)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/Тема_2/pic/lab2_1.png)
+![Меню](https://github.com/vnika2003/Software_Engineering//blob/Тема_2/pic/lab2_1.png)
 
 ## Выводы
 
